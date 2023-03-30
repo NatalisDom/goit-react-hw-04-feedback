@@ -10,7 +10,6 @@ export const App = () => {
   const [bad, setBad] = useState(0);
 
   const base = { good, neutral, bad };
-
   const clickOfBtn = ({ target: { name } }) => {
     if (name === 'good') {
       setGood(prev => (prev += 1));
