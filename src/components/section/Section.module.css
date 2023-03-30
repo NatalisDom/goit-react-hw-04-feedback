@@ -1,0 +1,11 @@
+.section{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 20px 30px;
+    background-color: rgb(121, 214, 200);
+}
+
+.title{
+    margin-bottom: 20px;
+}
